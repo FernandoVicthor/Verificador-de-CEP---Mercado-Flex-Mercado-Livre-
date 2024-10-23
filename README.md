@@ -13,7 +13,7 @@ A aplicação verifica se certa região é atendida ou não pelo Flex, com base 
 - **.NET 8**
 - **Windows Forms**
 - **NPOI**: Biblioteca utilizada para manipulação de arquivos Excel.
-- **Banco de dados - SQL Server**: Para armazenamento de dados.
+- **Banco de dados - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)**: Para armazenamento de dados.
   
 ## Como Usar
 1. Insira o CEP e clique em pesquisar - Caso atenda, alguns campos serão preenchidos de forma automatica, devido a integração com a API do Via CEP: logradouro, bairro, Cidade E UF. 
