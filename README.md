@@ -39,4 +39,3 @@ Os demais campos são prenchidos de forma manual: Nome, CPF, numero, complemento
 4. Execute o projeto
   ```bash
     dotnet run
-``` 
