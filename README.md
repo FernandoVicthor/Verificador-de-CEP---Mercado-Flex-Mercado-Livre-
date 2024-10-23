@@ -22,7 +22,7 @@ Os demais campos são preenchidos de forma manual: Nome, CPF, numero, complement
 4. O arquivo será salvo automaticamente na área de trabalho.
 
 ## Observações importantes:
-- **Banco de Dados: O projeto utiliza um banco de dados SQL Server. É necessário ajustar a conexão e as tabelas de acordo com a estrutura do seu banco.**
+- **Banco de Dados:** O projeto utiliza um banco de dados SQL Server. É necessário ajustar a conexão e as tabelas de acordo com a estrutura do seu banco.[Documnetação SQL Server](https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16)
 - **Dependências:** Certifique-se de baixar todas as dependências e pacotes necessários, como a .NET 8. [Link para download .NET 8.](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 ## Instalação
