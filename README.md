@@ -28,7 +28,7 @@ Os demais campos são prenchidos de forma manual: Nome, CPF, numero, complemento
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/VerificadorCEP.git
+   git clone https://github.com/seu-usuario/Verificador-de-CEP---Mercado-Flex-Mercado-Livre.git
 2. Instale as dependências
    ```bash
    dotnet restore 
