@@ -21,7 +21,6 @@ Os demais campos são preenchidos de forma manual: Nome, CPF, numero, complement
 3. Clique no botão "Gerar Excel" para gerar uma planilha para criação da etiqueta e também salvar os dados em um banco de dados.
 4. O arquivo será salvo automaticamente na área de trabalho.
 
-##Imagens da aplicação
 
 ![1 - Aplicação](./img/img1.jpeg)
 
