@@ -5,7 +5,7 @@ A aplicação verifica se certa região é atendida ou não pelo Flex, com base 
 ## Funcionalidades
 - Verificação de CEPs a partir de uma base de dados.
 - Geração e salvamento de uma planilha Excel contendo informações de endereço, incluindo nome, CEP, endereço, complemento, bairro, cidade e estado.
-- O arquivo Excel gerado é compatível com plataforma TRACKen, uma empresa parceira do Mercado Livre. Com esse arquivo o usuário pode gerar uma etiqueta de envio na plataforma e fazer envios por conta própria.
+- O arquivo Excel gerado é compatível com plataforma [TRACKen](https://tracken.app.br/login.php), uma empresa parceira do Mercado Livre. Com esse arquivo o usuário pode gerar uma etiqueta de envio na plataforma e fazer envios por conta própria.
 - Integração automática com a API ViaCEP para preenchimento de endereços.
 
 ## Tecnologias Utilizadas
