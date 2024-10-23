@@ -22,7 +22,7 @@ Os demais campos são preenchidos de forma manual: Nome, CPF, numero, complement
 4. O arquivo será salvo automaticamente na área de trabalho.
 
 ##Imagens da aplicação
-![1 - Aplicação](./img/img1.jpg)
+![1 - Aplicação](./img/img1.jpeg)
 
 ## Observações importantes:
 - **Banco de Dados:** O projeto utiliza um banco de dados SQL Server. É necessário ajustar a conexão e as tabelas de acordo com a estrutura do seu banco. [Documentação SQL Server](https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16)
