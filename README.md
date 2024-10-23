@@ -1,5 +1,5 @@
 # Verificador CEP - Mercado Livre Flex
-Este projeto é uma solução desenvolvida para auxiliar Sellers Mercado Livre do Mercado Livre na checagem de atendimento do serviço: Mercado Envios Flex na cidade de São Paulo.
+Este projeto é uma solução desenvolvida para auxiliar Sellers do Mercado Livre na checagem de atendimento do serviço: Mercado Envios Flex na cidade de São Paulo.
 A aplicação verifica se certa região é atendedida ou não pelo Flex, com base no CEP inserido.
 
 ## Funcionalidades
@@ -16,8 +16,8 @@ A aplicação verifica se certa região é atendedida ou não pelo Flex, com bas
 - **Integração com API - Viacep**
   
 ## Como Usar
-1. Insira o CEP e clique em pesquisar - Caso atenda, alguns campos seram preenchidos de forma automatica devida a integração com a API do Via CEP: logradouro, bairro, Cidade E UF. 
-Os demais campos são prenchidos de forma manual. 
+1. Insira o CEP e clique em pesquisar - Caso atenda, alguns campos seram preenchidos de forma automatica, devido a integração com a API do Via CEP: logradouro, bairro, Cidade E UF. 
+Os demais campos são prenchidos de forma manual: Nome, CPF, numero, complemento e contato.
 3. Clique no botão "Gerar Excel" para gerar uma planilha para criação da etiqueta e também salvar os dados em um banco de dados.
 4. O arquivo será salvo automaticamente na área de trabalho.
 
@@ -32,7 +32,7 @@ Os demais campos são prenchidos de forma manual.
 2. Instale as dependências
    ```bash
    dotnet restore 
-3. Biuld o projeto: Para verificar se seu projeto está correta e que não está faltando nada.
+3. Biuld o projeto: Para verificar se seu projeto está correto e que não está faltando nada.
   ```bash
    dotnet builld
 ```
