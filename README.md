@@ -34,9 +34,9 @@ Os demais campos são prenchidos de forma manual: Nome, CPF, numero, complemento
    dotnet restore 
 3. Biuld o projeto: Para verificar se seu projeto está correto e que não está faltando nada.
   ```bash
-   dotnet builld
+    dotnet builld
 ```
 4. Execute o projeto
   ```bash
-   dotnet run
+    dotnet run
 ``` 
